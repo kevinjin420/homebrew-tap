@@ -7,8 +7,6 @@ cask "instant-space-switcher" do
   desc "Instant macOS space switching with window-move hotkeys"
   homepage "https://github.com/kevinjin420/instantspaceswitcher"
 
-  disable_quarantine true
-
   app "InstantSpaceSwitcher.app"
 
   zap trash: [
