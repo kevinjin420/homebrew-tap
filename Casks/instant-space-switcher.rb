@@ -1,6 +1,6 @@
 cask "instant-space-switcher" do
-  version "2.1"
-  sha256 "159b92b538b14f9646a9ee7af87d6abee21cd40c0c3665bcbb3f919e087a0e11"
+  version "2.2"
+  sha256 "f7707e20ce884108b9da48730cb25782dac432d9205fc19089c8f5e6b6dd91d5"
 
   url "https://github.com/kevinjin420/instantspaceswitcher/releases/download/v#{version}/InstantSpaceSwitcher.zip"
   name "InstantSpaceSwitcher"
